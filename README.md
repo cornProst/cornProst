@@ -4,7 +4,7 @@
 ## 프로필
 
 - 이름 : 배성훈
-- 이메일 : baesunghoon81@gmail.com
+- 이메일 : baesunghoon81@gmail.com
 - 취미 : 코딩, 운동, 게임
 - MBTI : ISTP
 
