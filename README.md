@@ -3,10 +3,13 @@
 
 ## 프로필
 
-- 이름 : 이윤배
-- 이메일 : peterpun13@gmail.com
-- 취미 : 코딩, 요리, 게임
-- MBTI : INTP
+- 이름 : 배성훈
+- 이메일 : baesunghoon81@gmail.com
+- 취미 : 코딩, 운동, 게임
+- MBTI : ISTP
+
+이젠컴퓨터아카테미 풀스택 과정
+2022.10.14 ~ 2023.03.30
 
 멋쟁이사자처럼 백엔드 스쿨 8기 
 2023.11.16 ~ 2024.05.03
@@ -21,14 +24,3 @@
 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
-  
-  
-
-## My_Notion
-
-
-<a href="https://www.notion.so/589f90db0f5c4904a2739fb4d44ab702?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>_
-portfolio
-
-
-<a href="https://www.notion.so/17a67e5a5ac2471797d4e8b5d2a74390" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>_study
